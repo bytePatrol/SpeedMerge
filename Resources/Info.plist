@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>SpeedMerge</string>
+	<key>CFBundleDisplayName</key>
+	<string>SpeedMerge</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.bytepatrol.SpeedMerge</string>
+	<key>CFBundleExecutable</key>
+	<string>SpeedMerge</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSNetworkVolumesUsageDescription</key>
+	<string>SpeedMerge reads from and copies to the folders you choose on network shares.</string>
+	<key>NSRemovableVolumesUsageDescription</key>
+	<string>SpeedMerge reads from and copies to the folders you choose on external drives.</string>
+</dict>
+</plist>

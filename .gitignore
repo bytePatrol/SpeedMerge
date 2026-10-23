@@ -1,0 +1,6 @@
+.build/
+.swiftpm/
+SpeedMerge.app/
+dist/
+*.dmg
+.DS_Store
